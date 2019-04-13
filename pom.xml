@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.cloudneer.pw</groupId>
+  <groupId>com.cloudineer.pw</groupId>
   <artifactId>ssm-getparam</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
@@ -95,7 +95,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.cloudneer.pw.App</mainClass>
+                            <mainClass>com.cloudineer.pw.App</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
